@@ -1,17 +1,13 @@
 ### Hi 👋 I am Steve Okeno
 
-
-<!--
-**sokeno/sokeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#### A full-stack software engineer and a Machine Learning Expert with a strong liking for Java Spring Boot and an incline towards JavaScript Single Page Applications and RESTful backend.
 
 - 🔭 I’m currently working on contraFarm
 - 🌱 I’m currently learning Kotlin & React
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ML, Computer Vision and Embedded Software Solutions
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about Federated Learning
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...may the forces be with you!
+
