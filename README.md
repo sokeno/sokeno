@@ -1,6 +1,6 @@
 ### Hi 👋 I am Steve Okeno
 
-#### A full-stack software engineer and a Machine Learning Expert with a strong liking for Java Spring Boot and an incline towards JavaScript Single Page Applications and RESTful backend.
+#### A full-stack software engineer and a Machine Learning Expert with a liking for reactive Microservices and streaming apps.
 
 - 🔭 I’m currently working on contraFarm
 - 🌱 I’m currently learning Kotlin & React
