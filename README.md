@@ -1,6 +1,6 @@
 ### Hi 👋 I am Stephen K Okeno
 
-#### A full-stack software engineer and a Machine Learning Expert with a liking for reactive Microservices and streaming apps.
+#### A full-stack software engineer and a Machine Learning Expert with a liking for reactive Microservices.
 
 - 🔭 I’m currently working on contraFarm
 - 🌱 I’m currently learning Kotlin & Flutter
