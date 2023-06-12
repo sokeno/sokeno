@@ -12,4 +12,5 @@
 - ⚡ Fun fact: ...may the forces be with you!
 
 [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokeno)](https://github.com/sokeno/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sokeno)](https://github.com/sokeno/github-readme-stats)
 
