@@ -1,4 +1,4 @@
-### Hi 👋 I am Stephen K Okeno
+### Hi 👋 I am Stephen Katiechi Okeno
 
 #### A Software engineering leader and a Machine Learning Expert with a liking for reactive Microservices.
 
