@@ -1,9 +1,9 @@
 ### Hi 👋 I am Stephen Katiechi Okeno
 
-#### A Software engineering leader and a Machine Learning Expert with a liking for reactive Microservices.
+#### A Software engineering leader and a Machine Learning Expert
 
 - 🔭 I’m currently working on contraFarm
-- 🌱 I’m currently learning Kotlin & Temporal
+- 🌱 I’m currently learning Fuzzy Logic in constraint programming and its application to modern-day business problems
 - 👯 I’m looking to collaborate on ML, Computer Vision and Embedded Software Solutions
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Federated Machine Learning, Embedded Systems and Machine Vision
