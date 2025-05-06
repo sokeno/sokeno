@@ -1,13 +1,12 @@
-### Hi 👋 I am Stephen Katiechi Okeno
+### Hi there 👋 I'm Stephen Katiechi Okeno
 
-#### A Software engineering leader and a Machine Learning Expert
+#### 🚀 Software Engineering Leader | 💡 Solutions Architect | 🤖 Tech Enthusiast
 
-- 🔭 I’m currently working on contraFarm
-- 🌱 I’m currently learning Fuzzy Logic in constraint programming and its application to modern-day business problems
-- 👯 I’m looking to collaborate on ML, Computer Vision and Embedded Software Solutions
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Federated Machine Learning, Embedded Systems and Machine Vision
-- 📫 How to reach me: steveokeno@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...may the forces be with you!
-
+- 🔭 Currently building **contraFarm** — a platform for sustainable, tech-enabled agriculture
+- 🌱 Exploring **Fuzzy Logic** in constraint programming and its application to real-world business problems
+- 🤝 Open to collaboration on **Machine Learning**, **Edge Computing**, and **Disruptive Business Models**
+- 💬 Ask me about **Federated Machine Learning**, **Embedded Systems**, or **Machine Vision**
+- 📫 Reach me at **steveokeno@gmail.com**
+- ⚡ Fun fact: _"May the forces be with you!"_
+- 👨‍👩‍👧 Pronouns: he/him
+- 🤔 I'm looking for help with... UI/UX Design.
